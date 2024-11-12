@@ -52,7 +52,7 @@ body {
 .hero-section {
     position: relative;
     height: 495px;
-    background: url('images/1.jpg') no-repeat center center;
+    background: url('1.jpg') no-repeat center center;
     background-size: cover;
     color: #ffffff;
     display: flex;
